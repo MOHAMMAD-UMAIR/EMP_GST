@@ -47,23 +47,31 @@ def jamku_extract(GST):
 
 def process_master_india(PAN):
     # Example JSON data (dictionary)
-    json_data = master_india_extract(PAN).text
+    json_data = master_india_extract(PAN)
 
     # Convert JSON string to a Python dictionary
-    json_obj = json.loads(json_data)
+    json_obj = json.loads(json_data)["data"]
 
-    # Extract only the "records" data
-    records_data = json_obj["data"]
+    # Extract only the "data" data
+    #records_data = json_obj["data"]
+    # Keep only "stjCd" and "lgnm" keys
+    keys_to_keep = ["gstin","sts"]
+    
+    records_data_filtered = [{key: element.get(key) for key in keys_to_keep} for element in json_obj]
+
+    #print(records_data_filtered)
 
     # Specify the file path
-    file_path = str(PAN)+".json"
+    file_path = str(PAN)+"_to_GST.json"
 
     # Save the "records" data to a new JSON file
     with open(file_path, 'w') as json_file:
         # Use indent for pretty formatting (optional)
-        json.dump(records_data, json_file, indent=2)
+        json.dump(records_data_filtered, json_file, indent=2)
 
     print(f"Records data has been saved to {file_path}")
+    
+    return records_data_filtered
     
     
 
@@ -89,7 +97,8 @@ def master_india_extract(PAN):
     }
 
     response_master_india = requests.request("GET", url, headers=headers)
+    master_data = response_master_india.text
 
     print(f"Established connection  to the master india website for the PAN:{PAN}")
     
-    return response_master_india
+    return master_data
