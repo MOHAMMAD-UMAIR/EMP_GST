@@ -1,0 +1,232 @@
+{
+  "pan": "AAACR5055K",
+  "hsn": [
+    "00440116",
+    "00440060",
+    "00440366",
+    "00440480",
+    "00440153"
+  ],
+  "compCategory": "Yellow",
+  "dty": "Regular",
+  "lgnm": "Reliance Industries Limited",
+  "pincode": "400701",
+  "sts": "Active",
+  "tradeName": "Reliance Industries Limited",
+  "gstin": "27AAACR5055K2Z6",
+  "mandatedeInvoice": "Yes",
+  "einvoiceStatus": "Yes",
+  "ctb": "Public Limited Company",
+  "aggreTurnOverFY": "Available in Paid Version of API",
+  "aggreTurnOver": "Available in Paid Version of API",
+  "rgdt": "28/06/2017",
+  "nba": [
+    "Recipient of Goods or Services",
+    "Supplier of Services",
+    "Export",
+    "Office / Sale Office",
+    "Import"
+  ],
+  "cxdt": "",
+  "ctj": "Commissionerate - BELAPUR,Division - DIVISION IV,Range - RANGE-IV (Jurisdictional Office)",
+  "stj": "State - Maharashtra,Zone - Thane,Division - RAIGAD,Charge - URAN_701",
+  "adr": "Building 10A, 5 TTC Industrial Area, Reliance Corporate Park, Thane Belapur Road, Ghansoli, Navi Mumbai, Thane, Maharashtra, 400701",
+  "meta": {
+    "latestgtsr1": "September 2023-2024",
+    "latestgtsr3b": "September 2023-2024",
+    "syncMasterDate": "2023-10-27",
+    "syncReturnDate": "2023-11-01"
+  },
+  "fillingFreq": {
+    "2023_Q1": "M",
+    "2023_Q2": "M",
+    "2023_Q3": "M",
+    "2023_Q4": "M",
+    "2022_Q1": "M",
+    "2022_Q2": "M",
+    "2022_Q3": "M",
+    "2022_Q4": "M"
+  },
+  "returns": [
+    {
+      "fy": "2023-2024",
+      "dof": "10/10/2023",
+      "rtntype": "GSTR1",
+      "taxp": "September"
+    },
+    {
+      "fy": "2023-2024",
+      "dof": "11/09/2023",
+      "rtntype": "GSTR1",
+      "taxp": "August"
+    },
+    {
+      "fy": "2023-2024",
+      "dof": "10/08/2023",
+      "rtntype": "GSTR1",
+      "taxp": "July"
+    },
+    {
+      "fy": "2023-2024",
+      "dof": "10/07/2023",
+      "rtntype": "GSTR1",
+      "taxp": "June"
+    },
+    {
+      "fy": "2023-2024",
+      "dof": "09/06/2023",
+      "rtntype": "GSTR1",
+      "taxp": "May"
+    },
+    {
+      "fy": "2023-2024",
+      "dof": "10/05/2023",
+      "rtntype": "GSTR1",
+      "taxp": "April"
+    },
+    {
+      "fy": "2022-2023",
+      "dof": "11/04/2023",
+      "rtntype": "GSTR1",
+      "taxp": "March"
+    },
+    {
+      "fy": "2022-2023",
+      "dof": "10/03/2023",
+      "rtntype": "GSTR1",
+      "taxp": "February"
+    },
+    {
+      "fy": "2022-2023",
+      "dof": "09/02/2023",
+      "rtntype": "GSTR1",
+      "taxp": "January"
+    },
+    {
+      "fy": "2022-2023",
+      "dof": "11/01/2023",
+      "rtntype": "GSTR1",
+      "taxp": "December"
+    },
+    {
+      "fy": "2023-2024",
+      "dof": "20/10/2023",
+      "rtntype": "GSTR3B",
+      "taxp": "September"
+    },
+    {
+      "fy": "2023-2024",
+      "dof": "20/09/2023",
+      "rtntype": "GSTR3B",
+      "taxp": "August"
+    },
+    {
+      "fy": "2023-2024",
+      "dof": "19/08/2023",
+      "rtntype": "GSTR3B",
+      "taxp": "July"
+    },
+    {
+      "fy": "2023-2024",
+      "dof": "20/07/2023",
+      "rtntype": "GSTR3B",
+      "taxp": "June"
+    },
+    {
+      "fy": "2023-2024",
+      "dof": "20/06/2023",
+      "rtntype": "GSTR3B",
+      "taxp": "May"
+    },
+    {
+      "fy": "2023-2024",
+      "dof": "20/05/2023",
+      "rtntype": "GSTR3B",
+      "taxp": "April"
+    },
+    {
+      "fy": "2022-2023",
+      "dof": "20/04/2023",
+      "rtntype": "GSTR3B",
+      "taxp": "March"
+    },
+    {
+      "fy": "2022-2023",
+      "dof": "20/03/2023",
+      "rtntype": "GSTR3B",
+      "taxp": "February"
+    },
+    {
+      "fy": "2022-2023",
+      "dof": "20/02/2023",
+      "rtntype": "GSTR3B",
+      "taxp": "January"
+    },
+    {
+      "fy": "2022-2023",
+      "dof": "20/01/2023",
+      "rtntype": "GSTR3B",
+      "taxp": "December"
+    },
+    {
+      "fy": "2021-2022",
+      "dof": "27/12/2022",
+      "rtntype": "GSTR9",
+      "taxp": "Annual"
+    },
+    {
+      "fy": "2020-2021",
+      "dof": "22/12/2021",
+      "rtntype": "GSTR9",
+      "taxp": "Annual"
+    },
+    {
+      "fy": "2019-2020",
+      "dof": "27/02/2021",
+      "rtntype": "GSTR9",
+      "taxp": "Annual"
+    },
+    {
+      "fy": "2018-2019",
+      "dof": "21/12/2020",
+      "rtntype": "GSTR9",
+      "taxp": "Annual"
+    },
+    {
+      "fy": "2017-2018",
+      "dof": "30/01/2020",
+      "rtntype": "GSTR9",
+      "taxp": "Annual"
+    },
+    {
+      "fy": "2021-2022",
+      "dof": "27/12/2022",
+      "rtntype": "GSTR9C",
+      "taxp": "Annual"
+    },
+    {
+      "fy": "2020-2021",
+      "dof": "25/12/2021",
+      "rtntype": "GSTR9C",
+      "taxp": "Annual"
+    },
+    {
+      "fy": "2019-2020",
+      "dof": "28/02/2021",
+      "rtntype": "GSTR9C",
+      "taxp": "Annual"
+    },
+    {
+      "fy": "2018-2019",
+      "dof": "24/12/2020",
+      "rtntype": "GSTR9C",
+      "taxp": "Annual"
+    },
+    {
+      "fy": "2017-2018",
+      "dof": "31/01/2020",
+      "rtntype": "GSTR9C",
+      "taxp": "Annual"
+    }
+  ]
+}
