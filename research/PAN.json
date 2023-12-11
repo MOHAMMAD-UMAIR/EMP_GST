@@ -4954,499 +4954,6 @@
     "einvoiceStatus": "Yes"
   },
   {
-    "stjCd": "JH022",
-    "lgnm": "RELIANCE INDUSTRIES LIMITED",
-    "stj": "Ranchi East",
-    "dty": "Regular",
-    "adadr": [
-      {
-        "addr": {
-          "bnm": "Galamuda",
-          "st": "Near Mile Stone No 187 Galamuda",
-          "loc": "PO Jaganathpur Thana Jaganathpur",
-          "bno": "Near Mile Stone No 187",
-          "dst": "East Singhbhum",
-          "lt": "",
-          "locality": "",
-          "pncd": "832101",
-          "landMark": "",
-          "stcd": "Jharkhand",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": ""
-        },
-        "ntr": "Office / Sale Office, Retail Business, Wholesale Business, Recipient of Goods or Services"
-      },
-      {
-        "addr": {
-          "bnm": "Birsa Munda Airport",
-          "st": "Air Port Road",
-          "loc": "Hinoo",
-          "bno": "Aviation Fuelling Station",
-          "dst": "Ranchi",
-          "lt": "",
-          "locality": "",
-          "pncd": "834002",
-          "landMark": "",
-          "stcd": "Jharkhand",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": ""
-        },
-        "ntr": "Office / Sale Office, Retail Business, Wholesale Business, Recipient of Goods or Services"
-      },
-      {
-        "addr": {
-          "bnm": "Kedal On BIT to Chuttu Road, Near BIT Chouck",
-          "st": "Ranchi-Hazaribag Road, NH-33",
-          "loc": "Kedal",
-          "bno": "RIL warehouse",
-          "dst": "Ranchi",
-          "lt": "",
-          "locality": "",
-          "pncd": "835217",
-          "landMark": "",
-          "stcd": "Jharkhand",
-          "geocodelvl": "NA",
-          "flno": "C/O BN Ghose Dairy Farm",
-          "lg": ""
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "Jasidih Industrial Area",
-          "st": "-",
-          "loc": "Jasidih",
-          "bno": "INDIAN OIL CORPORATION LTD- MD,JASIDIH TERMINAL",
-          "dst": "Deoghar",
-          "lt": "24.5294420000001",
-          "locality": "",
-          "pncd": "814142",
-          "landMark": "RELIANCE INDUSTRIES LIMITED C/O",
-          "stcd": "Jharkhand",
-          "geocodelvl": "Building",
-          "flno": "",
-          "lg": "86.6240520000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Plot no.133, 133/Part 134, Thana No.334, Thana Namkum",
-          "loc": "Ranchi",
-          "bno": "Khata No/Jamabandi No 106/110, Khewat No.Nil",
-          "dst": "Ranchi",
-          "lt": "23.3460490000001",
-          "locality": "",
-          "pncd": "834010",
-          "landMark": "Mauza Sarwal, Dist-Ranchi Jharkhand-834010",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "85.371475"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "TATISILWAI Ranchi, Jharkhand 835103",
-          "loc": "Ranchi",
-          "bno": "Plot No-1, 2 and 3, Phase- I, TATISILWAI INDUSTRIAL AREA",
-          "dst": "Ranchi",
-          "lt": "23.8295430000001",
-          "locality": "",
-          "pncd": "835103",
-          "landMark": "Ranchi",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.43143"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Hazra Mode,Near Water Treatment Plant,Barwada,Dhanbad 826004",
-          "loc": "Dhanbad",
-          "bno": "Plot No. 820 and 163, Mauza No. 90, Khata No. 20 and 73",
-          "dst": "Dhanbad",
-          "lt": "23.8295430000001",
-          "locality": "",
-          "pncd": "826004",
-          "landMark": "Dhanbad",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.43143"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Thana No 30, Distt- Bokaro, Jharkhand-827013",
-          "loc": "Bokaro Steel City",
-          "bno": "Golden Campus, Plot No 7790/7925",
-          "dst": "Bokaro",
-          "lt": "23.6342970000001",
-          "locality": "",
-          "pncd": "827013",
-          "landMark": "Bokaro",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.1687130000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Mauza No-53, Khata No-18,Plot No 657, PS Dhanabad",
-          "loc": "Dhanbad",
-          "bno": "3rd Floor, Reliables Signature Tower,Matkuria,Bank More",
-          "dst": "Dhanbad",
-          "lt": "23.7882740000001",
-          "locality": "",
-          "pncd": "826001",
-          "landMark": "District,- Dhanabad, Jharkhand, PIN-826001",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.4250900000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Netaji Subhash Road, Town Deoghar, Jharkhand - 814112",
-          "loc": "Deoghar",
-          "bno": "2ndFloor,Central Plaza",
-          "dst": "Deoghar",
-          "lt": "24.4919380000001",
-          "locality": "",
-          "pncd": "814112",
-          "landMark": "Deoghar",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.6932600000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "PS- Sadar Hazaribag, Thana- 136, Ward No-03",
-          "loc": "0",
-          "bno": "Ujjawal Comlex, 4th Floor, Mouza- Noora, Pargana- Champa",
-          "dst": "Hazaribag",
-          "lt": "23.9213270000001",
-          "locality": "",
-          "pncd": "825301",
-          "landMark": "Hazaribag Jharkhand- 825301",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "85.450652"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "PART, Mauza- Ranchi, PS- Shahdeo Nagar, Harmu Road, PS-205",
-          "loc": "Ranchi",
-          "bno": "Office No.202,203 and 204 on 2nd Floor MS Plot Number 915",
-          "dst": "Ranchi",
-          "lt": "23.3831440000001",
-          "locality": "",
-          "pncd": "834005",
-          "landMark": "Holding - 600, District- Ranchi Jharkhand- 834005",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "85.2915080000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "PO PS - Adityapur, District- Sareikala Kharsawa",
-          "loc": "Jamshedpur",
-          "bno": "Ground Floor,Prasidh Tower, Tata Kandra Main Road",
-          "dst": "Seraikela Kharsawan",
-          "lt": "22.7860630000001",
-          "locality": "",
-          "pncd": "831013",
-          "landMark": "Jharkhand, PIN - 831013",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.1662190000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Rajganj Road, PO- Katrasgarh, PS- Katras",
-          "loc": "Katras",
-          "bno": "Keshri Complex, Beside Bank of India",
-          "dst": "Dhanbad",
-          "lt": "23.816804",
-          "locality": "",
-          "pncd": "828114",
-          "landMark": "Distt- Dhanabad Jharkhand, PIN-828114",
-          "stcd": "Jharkhand",
-          "geocodelvl": "Building",
-          "flno": "",
-          "lg": "86.2936010000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "At-Mouza Village Tetri, Thana No.325, P.S Namkum",
-          "loc": "Ranchi",
-          "bno": "Khata No.109, Plot No.544 and khata no.116, Plot No.561",
-          "dst": "Ranchi",
-          "lt": "23.3460490000001",
-          "locality": "",
-          "pncd": "834010",
-          "landMark": "District - Ranchi, Jharkhand - 834010",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "85.371475"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Thana No 11, Ward No 23 Thana Saraidhela Mauza Sabalpur",
-          "loc": "Dhanbad",
-          "bno": "Khata No 12 New Khata No 22 Plot No 400 New Plot 65 66",
-          "dst": "Dhanbad",
-          "lt": "23.816398",
-          "locality": "",
-          "pncd": "828127",
-          "landMark": "District Dhanbad, Jharkhand, 828127",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.4595870000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Thana Namkum Mauza Sidraul, Ranchi District",
-          "loc": "Ranchi",
-          "bno": "Khata No 11,  Khewat No 3, Plot No 1201, Thana No 218",
-          "dst": "Ranchi",
-          "lt": "23.3460490000001",
-          "locality": "",
-          "pncd": "834010",
-          "landMark": "Jharkhand 834010",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "85.371475"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "H B Road, Po Ps Lalpur, Ranchi",
-          "loc": "Ranchi",
-          "bno": "2Nd Floor, Anand Complex",
-          "dst": "Ranchi",
-          "lt": "23.378682",
-          "locality": "",
-          "pncd": "834001",
-          "landMark": "Jharkhand 834001",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "85.321804"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "plot no 335 B, Holding no 37, ward no 9 Thana no 254",
-          "st": "Thana Deoghar, Mauza Barmasia, District Deoghar",
-          "loc": "Deoghar",
-          "bno": "Khata no Jamabandi no 46 3433 settlement plot no 533",
-          "dst": "Deoghar",
-          "lt": "24.4919380000001",
-          "locality": "",
-          "pncd": "814112",
-          "landMark": "Jharkhand 814112",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.6932600000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "Plot no 842, 843, 844 Thana no 83",
-          "st": "Thana Katkamsandi, Mauza Baliand, District Harzaibang",
-          "loc": "Masratu",
-          "bno": "Khata no Jamabandi no 15 Khewat no NIL",
-          "dst": "Hazaribag",
-          "lt": "23.9671740000001",
-          "locality": "",
-          "pncd": "825302",
-          "landMark": "Jharkhand 825302",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "85.3328460000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Thana No 63, Dist Saraikela - Kharsewa",
-          "loc": "Jamshedpur",
-          "bno": "Reliance Infocomm Ltd, Vill Jamalpur",
-          "dst": "Seraikela Kharsawan",
-          "lt": "22.826642",
-          "locality": "",
-          "pncd": "832108",
-          "landMark": "Jamshedpur 832108",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.0903940000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "At Mouza Village Tetri, Thana No 325, P S Namkum",
-          "loc": "Ranchi",
-          "bno": "Khata No 109, Plot No 544 and khata no 116, Plot No 561",
-          "dst": "Ranchi",
-          "lt": "23.3460490000001",
-          "locality": "",
-          "pncd": "834010",
-          "landMark": "District Ranchi, Jharkhand 834010",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "85.371475"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Hazra Mode, Near Water Treatment Plant, Barwada",
-          "loc": "Dhanbad",
-          "bno": "Plot no 820 163, Mauza no 90, Khata No 20  73",
-          "dst": "Dhanbad",
-          "lt": "23.8295430000001",
-          "locality": "",
-          "pncd": "826004",
-          "landMark": "Dhanbad, Jharkhand 826004",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.43143"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Thana no.413, Thana Deoghar, Mauza Shyamgang",
-          "loc": "Deoghar",
-          "bno": "Plot no.767, Holding no.0180000121000A1, Ward no.21",
-          "dst": "Deoghar",
-          "lt": "24.4919380000001",
-          "locality": "",
-          "pncd": "814112",
-          "landMark": "",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.6932600000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Thana and Mauza Adityapur",
-          "loc": "Jamshedpur",
-          "bno": "Khata No 48, Plot No.668, Ward No.06",
-          "dst": "Seraikela Kharsawan",
-          "lt": "22.7860630000001",
-          "locality": "",
-          "pncd": "831013",
-          "landMark": "",
-          "stcd": "Jharkhand",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "86.1662190000001"
-        },
-        "ntr": "Warehouse / Depot"
-      }
-    ],
-    "cxdt": "",
-    "gstin": "20AAACR5055K1ZL",
-    "nba": [
-      "Office / Sale Office",
-      "Retail Business",
-      "Wholesale Business",
-      "Recipient of Goods or Services",
-      "Warehouse / Depot"
-    ],
-    "lstupdt": "23/11/2023",
-    "rgdt": "01/07/2017",
-    "ctb": "Public Limited Company",
-    "pradr": {
-      "addr": {
-        "bnm": "Sandhya Tower",
-        "st": "Purlia Road",
-        "loc": "Konka, Lalpur",
-        "bno": "2nd and 3rd Floor",
-        "dst": "Ranchi",
-        "lt": "",
-        "locality": "",
-        "pncd": "834001",
-        "landMark": "",
-        "stcd": "Jharkhand",
-        "geocodelvl": "NA",
-        "flno": "",
-        "lg": ""
-      },
-      "ntr": "Office / Sale Office, Retail Business, Wholesale Business, Recipient of Goods or Services"
-    },
-    "tradeNam": "M/S RELIANCE INDUSTRIES LIMITED.",
-    "sts": "Active",
-    "ctjCd": "XW0206",
-    "ctj": "RANGE - VI",
-    "einvoiceStatus": "Yes"
-  },
-  {
     "rgdt": "01/07/2017",
     "stjCd": "",
     "tradeNam": "RELIANCE INDUSTRIES  LTD.",
@@ -6476,6 +5983,737 @@
     "tradeNam": "M/S RELIANCE INDUSTRIES LTD.",
     "sts": "Active",
     "ctj": "II-D RANGE",
+    "einvoiceStatus": "Yes"
+  },
+  {
+    "stjCd": "JH022",
+    "lgnm": "RELIANCE INDUSTRIES LIMITED",
+    "stj": "Ranchi East",
+    "dty": "Regular",
+    "adadr": [
+      {
+        "addr": {
+          "bnm": "Galamuda",
+          "loc": "PO Jaganathpur Thana Jaganathpur",
+          "st": "Near Mile Stone No 187 Galamuda",
+          "bno": "Near Mile Stone No 187",
+          "dst": "East Singhbhum",
+          "lt": "",
+          "locality": "",
+          "pncd": "832101",
+          "landMark": "",
+          "stcd": "Jharkhand",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": ""
+        },
+        "ntr": "Office / Sale Office, Retail Business, Wholesale Business, Recipient of Goods or Services"
+      },
+      {
+        "addr": {
+          "bnm": "Birsa Munda Airport",
+          "loc": "Hinoo",
+          "st": "Air Port Road",
+          "bno": "Aviation Fuelling Station",
+          "dst": "Ranchi",
+          "lt": "",
+          "locality": "",
+          "pncd": "834002",
+          "landMark": "",
+          "stcd": "Jharkhand",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": ""
+        },
+        "ntr": "Office / Sale Office, Retail Business, Wholesale Business, Recipient of Goods or Services"
+      },
+      {
+        "addr": {
+          "bnm": "Kedal On BIT to Chuttu Road, Near BIT Chouck",
+          "loc": "Kedal",
+          "st": "Ranchi-Hazaribag Road, NH-33",
+          "bno": "RIL warehouse",
+          "dst": "Ranchi",
+          "lt": "",
+          "locality": "",
+          "pncd": "835217",
+          "landMark": "",
+          "stcd": "Jharkhand",
+          "geocodelvl": "NA",
+          "flno": "C/O BN Ghose Dairy Farm",
+          "lg": ""
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "Jasidih Industrial Area",
+          "loc": "Jasidih",
+          "st": "-",
+          "bno": "INDIAN OIL CORPORATION LTD- MD,JASIDIH TERMINAL",
+          "dst": "Deoghar",
+          "lt": "24.5294420000001",
+          "locality": "",
+          "pncd": "814142",
+          "landMark": "RELIANCE INDUSTRIES LIMITED C/O",
+          "stcd": "Jharkhand",
+          "geocodelvl": "Building",
+          "flno": "",
+          "lg": "86.6240520000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Ranchi",
+          "st": "Plot no.133, 133/Part 134, Thana No.334, Thana Namkum",
+          "bno": "Khata No/Jamabandi No 106/110, Khewat No.Nil",
+          "dst": "Ranchi",
+          "lt": "23.3460490000001",
+          "locality": "",
+          "pncd": "834010",
+          "landMark": "Mauza Sarwal, Dist-Ranchi Jharkhand-834010",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "85.371475"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Ranchi",
+          "st": "TATISILWAI Ranchi, Jharkhand 835103",
+          "bno": "Plot No-1, 2 and 3, Phase- I, TATISILWAI INDUSTRIAL AREA",
+          "dst": "Ranchi",
+          "lt": "23.8295430000001",
+          "locality": "",
+          "pncd": "835103",
+          "landMark": "Ranchi",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.43143"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Dhanbad",
+          "st": "Hazra Mode,Near Water Treatment Plant,Barwada,Dhanbad 826004",
+          "bno": "Plot No. 820 and 163, Mauza No. 90, Khata No. 20 and 73",
+          "dst": "Dhanbad",
+          "lt": "23.8295430000001",
+          "locality": "",
+          "pncd": "826004",
+          "landMark": "Dhanbad",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.43143"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Bokaro Steel City",
+          "st": "Thana No 30, Distt- Bokaro, Jharkhand-827013",
+          "bno": "Golden Campus, Plot No 7790/7925",
+          "dst": "Bokaro",
+          "lt": "23.6342970000001",
+          "locality": "",
+          "pncd": "827013",
+          "landMark": "Bokaro",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.1687130000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Dhanbad",
+          "st": "Mauza No-53, Khata No-18,Plot No 657, PS Dhanabad",
+          "bno": "3rd Floor, Reliables Signature Tower,Matkuria,Bank More",
+          "dst": "Dhanbad",
+          "lt": "23.7882740000001",
+          "locality": "",
+          "pncd": "826001",
+          "landMark": "District,- Dhanabad, Jharkhand, PIN-826001",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.4250900000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Deoghar",
+          "st": "Netaji Subhash Road, Town Deoghar, Jharkhand - 814112",
+          "bno": "2ndFloor,Central Plaza",
+          "dst": "Deoghar",
+          "lt": "24.4919380000001",
+          "locality": "",
+          "pncd": "814112",
+          "landMark": "Deoghar",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.6932600000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "0",
+          "st": "PS- Sadar Hazaribag, Thana- 136, Ward No-03",
+          "bno": "Ujjawal Comlex, 4th Floor, Mouza- Noora, Pargana- Champa",
+          "dst": "Hazaribag",
+          "lt": "23.9213270000001",
+          "locality": "",
+          "pncd": "825301",
+          "landMark": "Hazaribag Jharkhand- 825301",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "85.450652"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Ranchi",
+          "st": "PART, Mauza- Ranchi, PS- Shahdeo Nagar, Harmu Road, PS-205",
+          "bno": "Office No.202,203 and 204 on 2nd Floor MS Plot Number 915",
+          "dst": "Ranchi",
+          "lt": "23.3831440000001",
+          "locality": "",
+          "pncd": "834005",
+          "landMark": "Holding - 600, District- Ranchi Jharkhand- 834005",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "85.2915080000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Jamshedpur",
+          "st": "PO PS - Adityapur, District- Sareikala Kharsawa",
+          "bno": "Ground Floor,Prasidh Tower, Tata Kandra Main Road",
+          "dst": "Seraikela Kharsawan",
+          "lt": "22.7860630000001",
+          "locality": "",
+          "pncd": "831013",
+          "landMark": "Jharkhand, PIN - 831013",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.1662190000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Katras",
+          "st": "Rajganj Road, PO- Katrasgarh, PS- Katras",
+          "bno": "Keshri Complex, Beside Bank of India",
+          "dst": "Dhanbad",
+          "lt": "23.816804",
+          "locality": "",
+          "pncd": "828114",
+          "landMark": "Distt- Dhanabad Jharkhand, PIN-828114",
+          "stcd": "Jharkhand",
+          "geocodelvl": "Building",
+          "flno": "",
+          "lg": "86.2936010000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Ranchi",
+          "st": "At-Mouza Village Tetri, Thana No.325, P.S Namkum",
+          "bno": "Khata No.109, Plot No.544 and khata no.116, Plot No.561",
+          "dst": "Ranchi",
+          "lt": "23.3460490000001",
+          "locality": "",
+          "pncd": "834010",
+          "landMark": "District - Ranchi, Jharkhand - 834010",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "85.371475"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Dhanbad",
+          "st": "Thana No 11, Ward No 23 Thana Saraidhela Mauza Sabalpur",
+          "bno": "Khata No 12 New Khata No 22 Plot No 400 New Plot 65 66",
+          "dst": "Dhanbad",
+          "lt": "23.816398",
+          "locality": "",
+          "pncd": "828127",
+          "landMark": "District Dhanbad, Jharkhand, 828127",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.4595870000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Ranchi",
+          "st": "Thana Namkum Mauza Sidraul, Ranchi District",
+          "bno": "Khata No 11,  Khewat No 3, Plot No 1201, Thana No 218",
+          "dst": "Ranchi",
+          "lt": "23.3460490000001",
+          "locality": "",
+          "pncd": "834010",
+          "landMark": "Jharkhand 834010",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "85.371475"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Ranchi",
+          "st": "H B Road, Po Ps Lalpur, Ranchi",
+          "bno": "2Nd Floor, Anand Complex",
+          "dst": "Ranchi",
+          "lt": "23.378682",
+          "locality": "",
+          "pncd": "834001",
+          "landMark": "Jharkhand 834001",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "85.321804"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "plot no 335 B, Holding no 37, ward no 9 Thana no 254",
+          "loc": "Deoghar",
+          "st": "Thana Deoghar, Mauza Barmasia, District Deoghar",
+          "bno": "Khata no Jamabandi no 46 3433 settlement plot no 533",
+          "dst": "Deoghar",
+          "lt": "24.4919380000001",
+          "locality": "",
+          "pncd": "814112",
+          "landMark": "Jharkhand 814112",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.6932600000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "Plot no 842, 843, 844 Thana no 83",
+          "loc": "Masratu",
+          "st": "Thana Katkamsandi, Mauza Baliand, District Harzaibang",
+          "bno": "Khata no Jamabandi no 15 Khewat no NIL",
+          "dst": "Hazaribag",
+          "lt": "23.9671740000001",
+          "locality": "",
+          "pncd": "825302",
+          "landMark": "Jharkhand 825302",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "85.3328460000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Jamshedpur",
+          "st": "Thana No 63, Dist Saraikela - Kharsewa",
+          "bno": "Reliance Infocomm Ltd, Vill Jamalpur",
+          "dst": "Seraikela Kharsawan",
+          "lt": "22.826642",
+          "locality": "",
+          "pncd": "832108",
+          "landMark": "Jamshedpur 832108",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.0903940000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Ranchi",
+          "st": "At Mouza Village Tetri, Thana No 325, P S Namkum",
+          "bno": "Khata No 109, Plot No 544 and khata no 116, Plot No 561",
+          "dst": "Ranchi",
+          "lt": "23.3460490000001",
+          "locality": "",
+          "pncd": "834010",
+          "landMark": "District Ranchi, Jharkhand 834010",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "85.371475"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Dhanbad",
+          "st": "Hazra Mode, Near Water Treatment Plant, Barwada",
+          "bno": "Plot no 820 163, Mauza no 90, Khata No 20  73",
+          "dst": "Dhanbad",
+          "lt": "23.8295430000001",
+          "locality": "",
+          "pncd": "826004",
+          "landMark": "Dhanbad, Jharkhand 826004",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.43143"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Deoghar",
+          "st": "Thana no.413, Thana Deoghar, Mauza Shyamgang",
+          "bno": "Plot no.767, Holding no.0180000121000A1, Ward no.21",
+          "dst": "Deoghar",
+          "lt": "24.4919380000001",
+          "locality": "",
+          "pncd": "814112",
+          "landMark": "",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.6932600000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Jamshedpur",
+          "st": "Thana and Mauza Adityapur",
+          "bno": "Khata No 48, Plot No.668, Ward No.06",
+          "dst": "Seraikela Kharsawan",
+          "lt": "22.7860630000001",
+          "locality": "",
+          "pncd": "831013",
+          "landMark": "",
+          "stcd": "Jharkhand",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "86.1662190000001"
+        },
+        "ntr": "Warehouse / Depot"
+      }
+    ],
+    "cxdt": "",
+    "gstin": "20AAACR5055K1ZL",
+    "nba": [
+      "Office / Sale Office",
+      "Retail Business",
+      "Wholesale Business",
+      "Recipient of Goods or Services",
+      "Warehouse / Depot"
+    ],
+    "lstupdt": "06/12/2023",
+    "rgdt": "01/07/2017",
+    "ctb": "Public Limited Company",
+    "pradr": {
+      "addr": {
+        "bnm": "Sandhya Tower",
+        "loc": "Konka, Lalpur",
+        "st": "Purlia Road",
+        "bno": "2nd and 3rd Floor",
+        "dst": "Ranchi",
+        "lt": "",
+        "locality": "",
+        "pncd": "834001",
+        "landMark": "",
+        "stcd": "Jharkhand",
+        "geocodelvl": "NA",
+        "flno": "",
+        "lg": ""
+      },
+      "ntr": "Office / Sale Office, Retail Business, Wholesale Business, Recipient of Goods or Services"
+    },
+    "tradeNam": "M/S RELIANCE INDUSTRIES LIMITED.",
+    "sts": "Active",
+    "ctjCd": "XW0206",
+    "ctj": "RANGE - VI",
+    "einvoiceStatus": "Yes"
+  },
+  {
+    "stjCd": "HP015",
+    "lgnm": "RELIANCE INDUSTRIES LIMITED",
+    "stj": "Cart Road Circle",
+    "dty": "Regular",
+    "adadr": [
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Baddi",
+          "st": "Katha Village",
+          "bno": "C/O Scoot EDIL Pharmacia compound",
+          "dst": "Solan",
+          "lt": "",
+          "locality": "",
+          "pncd": "173205",
+          "landMark": "",
+          "stcd": "Himachal Pradesh",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": ""
+        },
+        "ntr": "Office / Sale Office"
+      },
+      {
+        "addr": {
+          "bnm": "-",
+          "loc": "VILLAGE SURAJ MAJRA NEAR CADILA PHARMA,TEHSIL BADDI",
+          "st": "-",
+          "bno": "RELIANCE INDUSTRIES LIMITED",
+          "dst": "Solan",
+          "lt": "76.80",
+          "locality": "",
+          "pncd": "173205",
+          "landMark": "",
+          "stcd": "Himachal Pradesh",
+          "geocodelvl": "NA",
+          "flno": "KHASARA NO.96,99,104,105,378/98,379/98,337/94",
+          "lg": "30.97"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "Khasra No. 137/30, 31 Measuring 12-1",
+          "loc": "0",
+          "st": "Khasra No. 216 and 31, Khatta-82, Khatouni-92, Mohal",
+          "bno": "Bighas Situated in village Kothi",
+          "dst": "Bilaspur",
+          "lt": "31.402406",
+          "locality": "PO Chandpur, Tehsil Sadar, Distt Bilaspur",
+          "pncd": "174004",
+          "landMark": "",
+          "stcd": "Himachal Pradesh",
+          "geocodelvl": "pincode",
+          "flno": "C/o Chhturam Chandal, Khewat No.8, Khatoni No. 8",
+          "lg": "76.7792830000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Kangra",
+          "st": "Mohal Patarkar Mouza Nandehar",
+          "bno": "Khata/Khatauni No-95Min/125Min, Khasra No-1069/618",
+          "dst": "Kangra",
+          "lt": "32.113416",
+          "locality": "",
+          "pncd": "176001",
+          "landMark": "",
+          "stcd": "Himachal Pradesh",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": "76.257367"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Jutogh",
+          "st": "MOHAL BADWA TEHSIL",
+          "bno": "KHASRA NO-139, KHATAUNI NO-273",
+          "dst": "Shimla",
+          "lt": "31.122012",
+          "locality": "",
+          "pncd": "171011",
+          "landMark": "Shimla 171011",
+          "stcd": "Himachal Pradesh",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "77.107015"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Kangra",
+          "st": "up Mohal Patarkar",
+          "bno": "Khewat No 97, Khatoni No 127, Khasra No 777",
+          "dst": "Kangra",
+          "lt": "32.113416",
+          "locality": "",
+          "pncd": "176001",
+          "landMark": "the & distt kangra176001",
+          "stcd": "Himachal Pradesh",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.257367"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Shimla",
+          "st": "Tehsil shimla",
+          "bno": "Sale Deed No 514/2012 Mohal Vikas Nagar",
+          "dst": "Shimla",
+          "lt": "31.090676",
+          "locality": "",
+          "pncd": "171002",
+          "landMark": "Himachal Pradesh171002",
+          "stcd": "Himachal Pradesh",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "77.177419"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Shimla",
+          "st": "Tuti Kandi Bus Terminal, Tutikandi",
+          "bno": "First Floor, New ISBT",
+          "dst": "Shimla",
+          "lt": "31.100919",
+          "locality": "",
+          "pncd": "171004",
+          "landMark": "Shimla Taluka and District, Himachal Pradesh.171004",
+          "stcd": "Himachal Pradesh",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "77.1503510000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Kothi",
+          "st": "Village Kothi",
+          "bno": "Khasra No.94/39, Link Road",
+          "dst": "Bilaspur",
+          "lt": "31.402406",
+          "locality": "",
+          "pncd": "174004",
+          "landMark": "Bilaspur, Himachal Pradesh - 174004",
+          "stcd": "Himachal Pradesh",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.7792830000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Kasumpti",
+          "st": "Revenue Village Kasumpti Jajhot",
+          "bno": "Khata Khatoni No. 71/102min, Khasra No. 732/2 Measuring 605-",
+          "dst": "Shimla",
+          "lt": "31.0736640000001",
+          "locality": "",
+          "pncd": "171009",
+          "landMark": "Tehsil Shimla (U) District Shimla H.P.171009",
+          "stcd": "Himachal Pradesh",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "77.1611750000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Sauli Khad Industrial Area",
+          "st": "Situated at 298/1/13 Sablikhad Tehsil Sadar",
+          "bno": "Khatauni No 259 Khasra No 5",
+          "dst": "Mandi",
+          "lt": "31.711751",
+          "locality": "",
+          "pncd": "175001",
+          "landMark": "Dist Mandi H.P.175001",
+          "stcd": "Himachal Pradesh",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.90491"
+        },
+        "ntr": "Warehouse / Depot"
+      }
+    ],
+    "cxdt": "",
+    "gstin": "02AAACR5055K2ZI",
+    "nba": [
+      "Office / Sale Office",
+      "Warehouse / Depot"
+    ],
+    "lstupdt": "06/12/2023",
+    "rgdt": "01/07/2017",
+    "ctb": "Public Limited Company",
+    "pradr": {
+      "addr": {
+        "bnm": "",
+        "loc": "Tutikandi",
+        "st": "Parking block of Modern ISBT",
+        "bno": "Level 1792, 2nd Floor from Ground",
+        "dst": "Shimla",
+        "lt": "",
+        "locality": "",
+        "pncd": "171004",
+        "landMark": "",
+        "stcd": "Himachal Pradesh",
+        "geocodelvl": "NA",
+        "flno": "",
+        "lg": ""
+      },
+      "ntr": "Office / Sale Office"
+    },
+    "tradeNam": "RELIANCE INDUSTRIES LIMITED",
+    "sts": "Active",
+    "ctjCd": "ZB0101",
+    "ctj": "SHIMLA-I",
     "einvoiceStatus": "Yes"
   },
   {
@@ -10219,244 +10457,6 @@
     "sts": "Active",
     "tradeNam": "M/S RELIANCE INDUSTRIES LTD",
     "ctj": "RANGE - I MUSSOORIE",
-    "einvoiceStatus": "Yes"
-  },
-  {
-    "stjCd": "HP015",
-    "stj": "Cart Road Circle",
-    "lgnm": "RELIANCE INDUSTRIES LIMITED",
-    "dty": "Regular",
-    "adadr": [
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Katha Village",
-          "loc": "Baddi",
-          "bno": "C/O Scoot EDIL Pharmacia compound",
-          "dst": "Solan",
-          "lt": "",
-          "locality": "",
-          "pncd": "173205",
-          "landMark": "",
-          "stcd": "Himachal Pradesh",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": ""
-        },
-        "ntr": "Office / Sale Office"
-      },
-      {
-        "addr": {
-          "bnm": "-",
-          "st": "-",
-          "loc": "VILLAGE SURAJ MAJRA NEAR CADILA PHARMA,TEHSIL BADDI",
-          "bno": "RELIANCE INDUSTRIES LIMITED",
-          "dst": "Solan",
-          "lt": "76.80",
-          "locality": "",
-          "pncd": "173205",
-          "landMark": "",
-          "stcd": "Himachal Pradesh",
-          "geocodelvl": "NA",
-          "flno": "KHASARA NO.96,99,104,105,378/98,379/98,337/94",
-          "lg": "30.97"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "Khasra No. 137/30, 31 Measuring 12-1",
-          "st": "Khasra No. 216 and 31, Khatta-82, Khatouni-92, Mohal",
-          "loc": "0",
-          "bno": "Bighas Situated in village Kothi",
-          "dst": "Bilaspur",
-          "lt": "31.402406",
-          "locality": "PO Chandpur, Tehsil Sadar, Distt Bilaspur",
-          "pncd": "174004",
-          "landMark": "",
-          "stcd": "Himachal Pradesh",
-          "geocodelvl": "pincode",
-          "flno": "C/o Chhturam Chandal, Khewat No.8, Khatoni No. 8",
-          "lg": "76.7792830000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Mohal Patarkar Mouza Nandehar",
-          "loc": "Kangra",
-          "bno": "Khata/Khatauni No-95Min/125Min, Khasra No-1069/618",
-          "dst": "Kangra",
-          "lt": "32.113416",
-          "locality": "",
-          "pncd": "176001",
-          "landMark": "",
-          "stcd": "Himachal Pradesh",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": "76.257367"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "MOHAL BADWA TEHSIL",
-          "loc": "Jutogh",
-          "bno": "KHASRA NO-139, KHATAUNI NO-273",
-          "dst": "Shimla",
-          "lt": "31.122012",
-          "locality": "",
-          "pncd": "171011",
-          "landMark": "Shimla 171011",
-          "stcd": "Himachal Pradesh",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "77.107015"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "up Mohal Patarkar",
-          "loc": "Kangra",
-          "bno": "Khewat No 97, Khatoni No 127, Khasra No 777",
-          "dst": "Kangra",
-          "lt": "32.113416",
-          "locality": "",
-          "pncd": "176001",
-          "landMark": "the & distt kangra176001",
-          "stcd": "Himachal Pradesh",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.257367"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Tehsil shimla",
-          "loc": "Shimla",
-          "bno": "Sale Deed No 514/2012 Mohal Vikas Nagar",
-          "dst": "Shimla",
-          "lt": "31.090676",
-          "locality": "",
-          "pncd": "171002",
-          "landMark": "Himachal Pradesh171002",
-          "stcd": "Himachal Pradesh",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "77.177419"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Tuti Kandi Bus Terminal, Tutikandi",
-          "loc": "Shimla",
-          "bno": "First Floor, New ISBT",
-          "dst": "Shimla",
-          "lt": "31.100919",
-          "locality": "",
-          "pncd": "171004",
-          "landMark": "Shimla Taluka and District, Himachal Pradesh.171004",
-          "stcd": "Himachal Pradesh",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "77.1503510000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Village Kothi",
-          "loc": "Kothi",
-          "bno": "Khasra No.94/39, Link Road",
-          "dst": "Bilaspur",
-          "lt": "31.402406",
-          "locality": "",
-          "pncd": "174004",
-          "landMark": "Bilaspur, Himachal Pradesh - 174004",
-          "stcd": "Himachal Pradesh",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.7792830000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Revenue Village Kasumpti Jajhot",
-          "loc": "Kasumpti",
-          "bno": "Khata Khatoni No. 71/102min, Khasra No. 732/2 Measuring 605-",
-          "dst": "Shimla",
-          "lt": "31.0736640000001",
-          "locality": "",
-          "pncd": "171009",
-          "landMark": "Tehsil Shimla (U) District Shimla H.P.171009",
-          "stcd": "Himachal Pradesh",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "77.1611750000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Situated at 298/1/13 Sablikhad Tehsil Sadar",
-          "loc": "Sauli Khad Industrial Area",
-          "bno": "Khatauni No 259 Khasra No 5",
-          "dst": "Mandi",
-          "lt": "31.711751",
-          "locality": "",
-          "pncd": "175001",
-          "landMark": "Dist Mandi H.P.175001",
-          "stcd": "Himachal Pradesh",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.90491"
-        },
-        "ntr": "Warehouse / Depot"
-      }
-    ],
-    "cxdt": "",
-    "gstin": "02AAACR5055K2ZI",
-    "nba": [
-      "Office / Sale Office",
-      "Warehouse / Depot"
-    ],
-    "lstupdt": "06/11/2023",
-    "rgdt": "01/07/2017",
-    "ctb": "Public Limited Company",
-    "pradr": {
-      "addr": {
-        "bnm": "",
-        "st": "Parking block of Modern ISBT",
-        "loc": "Tutikandi",
-        "bno": "Level 1792, 2nd Floor from Ground",
-        "dst": "Shimla",
-        "lt": "",
-        "locality": "",
-        "pncd": "171004",
-        "landMark": "",
-        "stcd": "Himachal Pradesh",
-        "geocodelvl": "NA",
-        "flno": "",
-        "lg": ""
-      },
-      "ntr": "Office / Sale Office"
-    },
-    "tradeNam": "RELIANCE INDUSTRIES LIMITED",
-    "sts": "Active",
-    "ctjCd": "ZB0101",
-    "ctj": "SHIMLA-I",
     "einvoiceStatus": "Yes"
   },
   {
@@ -15301,966 +15301,6 @@
     "einvoiceStatus": "Yes"
   },
   {
-    "stjCd": "PB151",
-    "lgnm": "RELIANCE INDUSTRIES LIMITED",
-    "stj": "Mohali - Ward No.3",
-    "dty": "Regular",
-    "adadr": [
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Hoshiarpur",
-          "loc": "Hoshiarpur",
-          "bno": "V.P.O. Chohal",
-          "dst": "Hoshiarpur",
-          "lt": "",
-          "locality": "",
-          "pncd": "146024",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": ""
-        },
-        "ntr": "Office / Sale Office"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Surya Tower",
-          "loc": "The Mall",
-          "bno": "3rd Floor",
-          "dst": "Ludhiana",
-          "lt": "",
-          "locality": "",
-          "pncd": "141001",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": ""
-        },
-        "ntr": "Office / Sale Office"
-      },
-      {
-        "addr": {
-          "bnm": "Reliance Industries Limited",
-          "st": "Thapar Colony",
-          "loc": "Chohal",
-          "bno": "Township Area",
-          "dst": "Hoshiarpur",
-          "lt": "",
-          "locality": "",
-          "pncd": "146024",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "NA",
-          "flno": "Hoshiarpur Manufacturing Div",
-          "lg": ""
-        },
-        "ntr": "Others"
-      },
-      {
-        "addr": {
-          "bnm": "Reliance Industries Limited",
-          "st": "Near Thapar Colony",
-          "loc": "Chohal",
-          "bno": "40 Acre Land,Plantation Area",
-          "dst": "Hoshiarpur",
-          "lt": "",
-          "locality": "",
-          "pncd": "146024",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "NA",
-          "flno": "Hoshiarpur Manufacturing Div.",
-          "lg": ""
-        },
-        "ntr": "Others"
-      },
-      {
-        "addr": {
-          "bnm": "Reliance Industries Limited",
-          "st": "Jalandhar Road",
-          "loc": "V PO Nasrala",
-          "bno": "RIL",
-          "dst": "Hoshiarpur",
-          "lt": "",
-          "locality": "",
-          "pncd": "146022",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": ""
-        },
-        "ntr": "Warehouse / Depot, Office / Sale Office, Export"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Village  Khetla",
-          "loc": "Near Patran Teshil- Sunam PO- Khetla",
-          "bno": "Reliance Industries Ltd Survey No  140",
-          "dst": "Sangrur",
-          "lt": "",
-          "locality": "",
-          "pncd": "148035",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": ""
-        },
-        "ntr": "Warehouse / Depot, Office / Sale Office"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "S.G.R.D.J. International Airport",
-          "loc": "Near Cargo Terminal,  Amritsar",
-          "bno": "Reliance Industries Limited,Aviation Fuelling Station",
-          "dst": "Amritsar",
-          "lt": "",
-          "locality": "",
-          "pncd": "143101",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": ""
-        },
-        "ntr": "Warehouse / Depot, Office / Sale Office"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "C/O HPCL Bhatinda, IRD",
-          "loc": "Phoose mandi, Mansa road, Bhatinda",
-          "bno": "Reliance industries limited",
-          "dst": "Bathinda",
-          "lt": "",
-          "locality": "",
-          "pncd": "151001",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": ""
-        },
-        "ntr": "Warehouse / Depot, Office / Sale Office"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "C/o Indian Oil Corporation Ltd.  M.D",
-          "loc": "Jind Road, Sangrur",
-          "bno": "Reliance Industries Ltd.",
-          "dst": "Sangrur",
-          "lt": "",
-          "locality": "",
-          "pncd": "148001",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": ""
-        },
-        "ntr": "Office / Sale Office, Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "NEAR PHOOS MANDI",
-          "st": "JASSI CHOWK.MANSA ROAD",
-          "loc": "BHATINDA",
-          "bno": "RELIANCE INDUSTRIES LIMITED, C/O BPCL BHATINDA",
-          "dst": "Bathinda",
-          "lt": "74.89",
-          "locality": "",
-          "pncd": "151001",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": "30.17"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "Opposite India Oil Petrol Pump",
-          "st": "NH-95, Chandigarh Road",
-          "loc": "Village, Kohara",
-          "bno": "Reliance Industries Limited",
-          "dst": "Ludhiana",
-          "lt": "76.00",
-          "locality": "",
-          "pncd": "141112",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "NA",
-          "flno": "",
-          "lg": "30.89"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "RELIANCE INDUSTRIES LIMITED",
-          "st": "-",
-          "loc": "Ludhiana",
-          "bno": "-",
-          "dst": "Ludhiana",
-          "lt": "30.906883",
-          "locality": "",
-          "pncd": "141001",
-          "landMark": "Village Kadian",
-          "stcd": "Punjab",
-          "geocodelvl": "city",
-          "flno": "-",
-          "lg": "75.846685"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "MALERKOTLA ROAD",
-          "loc": "Ludhiana",
-          "bno": "RK COLD STORE AND WAREHOUSE",
-          "dst": "Ludhiana",
-          "lt": "30.821749",
-          "locality": "VILLAGE KAIND",
-          "pncd": "141116",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.845763"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "KOHARA ROAD",
-          "loc": "Sahnewal",
-          "bno": "SAMRA LOGISTICS,BLOCK- 1 ,SAMRA LOGISTICS PARK",
-          "dst": "Ludhiana",
-          "lt": "30.849608",
-          "locality": "SAHNEWAL",
-          "pncd": "141120",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "Building",
-          "flno": "",
-          "lg": "75.9819440000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Sector 66",
-          "loc": "Mohali",
-          "bno": "A-901,Bestech Business Tower",
-          "dst": "SAS Nagar",
-          "lt": "30.8390185",
-          "locality": "",
-          "pncd": "160062",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "Neighbourhood",
-          "flno": "",
-          "lg": "75.8640655"
-        },
-        "ntr": "Office / Sale Office"
-      },
-      {
-        "addr": {
-          "bnm": "Godown No. 13 & 14",
-          "st": "Malerkotla Road",
-          "loc": "Ludhiana",
-          "bno": "Deepak Godowns",
-          "dst": "Ludhiana",
-          "lt": "30.8390185",
-          "locality": "Village- Kaind",
-          "pncd": "141116",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "Neighbourhood",
-          "flno": "",
-          "lg": "75.8640655"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "-",
-          "loc": "Sahnewal",
-          "bno": "C/O ADANI LOGISTICS SERVICES PRIVATE LIMITED",
-          "dst": "Ludhiana",
-          "lt": "30.837997",
-          "locality": "VILLAGE KANECH",
-          "pncd": "141120",
-          "landMark": "POL TERMINAL, NR RAILWAY CROSSING",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "RELIANCE INDUSTRIES LIMITED",
-          "lg": "75.9826650000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "District Fatehgarh Sahib",
-          "st": "Mohali-Sirhind Road",
-          "loc": "Mohali",
-          "bno": "Nr. Radha Swami Satsung Bhawan",
-          "dst": "SAS Nagar",
-          "lt": "30.694845",
-          "locality": "Village Khanpur Beer, Tehsil-Bassi pattana",
-          "pncd": "140307",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "Mrs. Kulvinder Kaur w/o Mr. Bhagwant Singh,",
-          "lg": "76.6636510000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "-",
-          "loc": "Mohali",
-          "bno": "KHASRA NO 7/2,9/1,11//21,22,23,7/1",
-          "dst": "SAS Nagar",
-          "lt": "30.694845",
-          "locality": "VILLAGE BADALI ALA SINGH, HB 222TEH DISTT FATEHGARH SAHIB",
-          "pncd": "140307",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.6636510000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "Near Chunni Kalan",
-          "st": "Landran Fatehgard sahib road",
-          "loc": "Mohali",
-          "bno": "-",
-          "dst": "SAS Nagar",
-          "lt": "30.694845",
-          "locality": "Teshil -Bassi Pathanan District Fatehgarh Sahib",
-          "pncd": "140307",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "Near Dolphin College Sceience SH-12A",
-          "lg": "76.6636510000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "District Fatehgarh Sahib",
-          "loc": "Mohali",
-          "bno": "Village-Sempla Teshil bassi Pathana",
-          "dst": "SAS Nagar",
-          "lt": "30.694845",
-          "locality": "",
-          "pncd": "140307",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.6636510000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Nakodar Road",
-          "loc": "Jalandhar",
-          "bno": "Khasra No. 24/1, 2/2,9,10,11,12, 19/1, 20/1,25/5/2,6,15",
-          "dst": "Jalandhar",
-          "lt": "30.694845",
-          "locality": "Near Zoloto Company, Village Lohara",
-          "pncd": "144026",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.6636510000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Near Radha Swami Satsang Bhawan",
-          "loc": "Mohali",
-          "bno": "Land Detail HB No. 63, Masteel No. 22, Kila Nos. 9/11,20",
-          "dst": "SAS Nagar",
-          "lt": "30.694845",
-          "locality": "Vill-Sarkapra, Tehsil Bassi Pathana, Distt Fatehgarh Sahib",
-          "pncd": "140307",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.6636510000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Abohar",
-          "loc": "Abohar",
-          "bno": "New Grain Market, Near Vishal mega mart",
-          "dst": "Fazilka",
-          "lt": "30.060972",
-          "locality": "",
-          "pncd": "152116",
-          "landMark": "District-Fazika,Punjab152116",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "74.1894550000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "100 FT Road, East Mohal nagar.Opp-Jay Cee Motors",
-          "loc": "Amritsar",
-          "bno": "Third Floor, SLS Tower, 273-J",
-          "dst": "Amritsar",
-          "lt": "31.6378770000001",
-          "locality": "",
-          "pncd": "143001",
-          "landMark": "Amritsar-Punjab143001",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "74.8662420000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "no.58 tehsil",
-          "loc": "Barnala",
-          "bno": "Village Handiaya -B",
-          "dst": "Barnala",
-          "lt": "30.371432",
-          "locality": "",
-          "pncd": "148101",
-          "landMark": "barnala,Punjab148101",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.549541"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Batala, Dist Gurdaspur",
-          "loc": "Batala",
-          "bno": "Ground Floor and First Floor,Shastri nagar",
-          "dst": "Gurdaspur",
-          "lt": "31.825165",
-          "locality": "",
-          "pncd": "143505",
-          "landMark": "Gurdaspur Punjab143505",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.188637"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "opp Bank of baroda, Dasuya",
-          "loc": "Dasuya",
-          "bno": "First Floor,near City Centre",
-          "dst": "Hoshiarpur",
-          "lt": "31.821421",
-          "locality": "",
-          "pncd": "144205",
-          "landMark": "Distt Hoshiarpur, Punjab144205",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.6261050000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Gali no-10,Opp bus stand Ferozepur canntt",
-          "loc": "Ferozepur",
-          "bno": "First Floor,House-69",
-          "dst": "Ferozepur",
-          "lt": "30.9304740000001",
-          "locality": "",
-          "pncd": "152001",
-          "landMark": "ferozpur,Punjab152001",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "74.614403"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Scheme 01 improvement Trust, Batala road",
-          "loc": "Gurdaspur",
-          "bno": "First floor and Second Floor, SCO NO-3,4,5",
-          "dst": "Gurdaspur",
-          "lt": "32.041617",
-          "locality": "",
-          "pncd": "143521",
-          "landMark": "Gurdaspur, Punjab143521",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.4025280000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Logowal Nagar",
-          "loc": "Hoshiarpur",
-          "bno": "SCO 13-14, Improvement Trust Scheme no 11",
-          "dst": "Hoshiarpur",
-          "lt": "31.5280030000001",
-          "locality": "",
-          "pncd": "146001",
-          "landMark": "Hoshirpur,Punjab146001",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.923867"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Lawrance Road, tehsil Jalalabad",
-          "loc": "Jalalabad",
-          "bno": "First Floor, Kartar Complex Above Punjab And Sind Bank",
-          "dst": "Fazilka",
-          "lt": "30.604183",
-          "locality": "",
-          "pncd": "152024",
-          "landMark": "Distt Fazilka,Punjab152024",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "74.2584150000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Tehsil kotakpura",
-          "loc": "Kotkapura",
-          "bno": "Village kotakpura, hadbast no-129",
-          "dst": "Faridkot",
-          "lt": "30.583803",
-          "locality": "",
-          "pncd": "151204",
-          "landMark": "Distt faridkot, Punjab151204",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "74.8227150000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Hadbast no 76,Tehsil and Distt Mansa",
-          "loc": "Mansa",
-          "bno": "Village Mansa Kalan",
-          "dst": "Mansa",
-          "lt": "29.935545",
-          "locality": "",
-          "pncd": "151505",
-          "landMark": "Mansa, Punjab151505",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.3686910000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "GT road",
-          "loc": "Malaut",
-          "bno": "First floor,Bansal Complex, near Convent School",
-          "dst": "Sri Muktsar Sahib",
-          "lt": "30.1879910000001",
-          "locality": "",
-          "pncd": "152107",
-          "landMark": "Malout, Punjab152107",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "74.498136"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "207 Railway road Nangal, Tehsil Nangal",
-          "loc": "Nangal",
-          "bno": "Lower Ground floor  First floor,Guru Kirpa Complex",
-          "dst": "Rupnagar",
-          "lt": "31.379731",
-          "locality": "",
-          "pncd": "140124",
-          "landMark": "Distt Rupnagar,Punjab140124",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.3880530000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Tehsil Nawasehar",
-          "loc": "Saloh",
-          "bno": "Village Nawashehar, Hadbast 126",
-          "dst": "Shaheed Bhagat Singh Nagar",
-          "lt": "31.125326",
-          "locality": "",
-          "pncd": "144514",
-          "landMark": "Distt S.B.S Nagar, Punjab144514",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.1168870000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Hadbast no-332, Thesil & Distt Pathankot",
-          "loc": "Pathankot",
-          "bno": "First and Secand Floor, Village Saili",
-          "dst": "Pathankot",
-          "lt": "32.2807480000001",
-          "locality": "",
-          "pncd": "145001",
-          "landMark": "Distt Pathankot,Punjab145001",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.6346490000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Village Rupnagar, Tehsil Rupnagar",
-          "loc": "Rupnagar",
-          "bno": "SCO1,Shreeram Complex, Ground, First,Second Floor Comlete",
-          "dst": "Rupnagar",
-          "lt": "30.9563690000001",
-          "locality": "",
-          "pncd": "140001",
-          "landMark": "Dist-Ropar,Punjab140001",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.5612570000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "SAS Nagar  Mohali",
-          "loc": "Mohali",
-          "bno": "Plot No E-38 , Industrial Area, Phase-08",
-          "dst": "SAS Nagar",
-          "lt": "30.7299110000001",
-          "locality": "",
-          "pncd": "160055",
-          "landMark": "Mohali,Punjab160055",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.7078770000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Railway Station Road , near LIC Office, Sangrur Teh",
-          "loc": "Sangrur",
-          "bno": "First  Second Floor,Railway Station Road , near LIC Office",
-          "dst": "Sangrur",
-          "lt": "30.245532",
-          "locality": "",
-          "pncd": "148001",
-          "landMark": "Distt Sangrur,Punjab-148001",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.8442130000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Tehsil Samana",
-          "loc": "Samana",
-          "bno": "Village malkana, Hadbast no-84",
-          "dst": "Patiala",
-          "lt": "30.159368",
-          "locality": "",
-          "pncd": "147101",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.2357880000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Opp Civil Hospital, Amritsar Road",
-          "loc": "Tarn Taran",
-          "bno": "First Floor and Second Floor,Above HDFC Bank",
-          "dst": "Tarn Taran",
-          "lt": "31.4521730000001",
-          "locality": "",
-          "pncd": "143401",
-          "landMark": "Tarn taran,Punjab143401",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "74.9295200000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Focal Point, Ludhiana",
-          "loc": "Ludhiana",
-          "bno": "Plot No. D-34, Phase V",
-          "dst": "Ludhiana",
-          "lt": "30.8837960000001",
-          "locality": "",
-          "pncd": "141010",
-          "landMark": "Ludhiana, Punjab141010",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.9090180000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "Kca Arcade",
-          "st": "Grand Trunk Road",
-          "loc": "Khanna",
-          "bno": "First Floor, KCA Arcade",
-          "dst": "Ludhiana",
-          "lt": "30.6992910000001",
-          "locality": "Billanwali Chhapary",
-          "pncd": "141401",
-          "landMark": "Hotel Thousand Spices",
-          "stcd": "Punjab",
-          "geocodelvl": "Building",
-          "flno": "",
-          "lg": "76.2327520000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "behind HP Petrol Pump, Near Olymipic school",
-          "loc": "Chaheru",
-          "bno": "Khasra No 1588, 1587, 1599, 1596, Hadvast 83",
-          "dst": "Kapurthala",
-          "lt": "31.251829",
-          "locality": "",
-          "pncd": "144411",
-          "landMark": "Tehsil Phagwara, Kapurthala 144411",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.7020580000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "bypass",
-          "loc": "Moga",
-          "bno": "Kotkapura",
-          "dst": "Moga",
-          "lt": "30.77777",
-          "locality": "",
-          "pncd": "142001",
-          "landMark": "Moga-142001",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "75.1624790000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Nabha road Bhawanigarh",
-          "loc": "Bhawanigarh",
-          "bno": "Sachdeva Ice Cream Plant, vill. Alloarkh",
-          "dst": "Sangrur",
-          "lt": "30.2654170000001",
-          "locality": "",
-          "pncd": "148026",
-          "landMark": "District Sangrur. Punjab-148026",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.0350950000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Bathinda Harbast No 70, Bathinda Barnala Road NH 64",
-          "loc": "Bathinda",
-          "bno": "Khasra No. 2150/3 2-18, 2151/2  4-3 Kh",
-          "dst": "Bathinda",
-          "lt": "30.157424",
-          "locality": "",
-          "pncd": "151001",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "74.9741020000001"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Sat Pal Mittal Road",
-          "loc": "Ludhiana",
-          "bno": "Flamez Mall, Gurdev Nagar",
-          "dst": "Ludhiana",
-          "lt": "30.894114",
-          "locality": "",
-          "pncd": "141001",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "Neighbourhood",
-          "flno": "",
-          "lg": "75.823707"
-        },
-        "ntr": "Warehouse / Depot"
-      },
-      {
-        "addr": {
-          "bnm": "",
-          "st": "Patiala-Rajpura Highway",
-          "loc": "Patiala",
-          "bno": "Reliance Mart Sheikupura, Opposite Police Commando Complex",
-          "dst": "Patiala",
-          "lt": "30.333265",
-          "locality": "",
-          "pncd": "147002",
-          "landMark": "",
-          "stcd": "Punjab",
-          "geocodelvl": "pincode",
-          "flno": "",
-          "lg": "76.4396540000001"
-        },
-        "ntr": "Warehouse / Depot"
-      }
-    ],
-    "cxdt": "",
-    "gstin": "03AAACR5055K2ZG",
-    "nba": [
-      "Office / Sale Office",
-      "Others",
-      "Warehouse / Depot",
-      "Export"
-    ],
-    "lstupdt": "06/11/2023",
-    "rgdt": "01/07/2017",
-    "ctb": "Public Limited Company",
-    "pradr": {
-      "addr": {
-        "bnm": "",
-        "st": "Phase-VIII, Industrial Focal point",
-        "loc": "Mohali",
-        "bno": "C-135",
-        "dst": "SAS Nagar",
-        "lt": "",
-        "locality": "",
-        "pncd": "160071",
-        "landMark": "",
-        "stcd": "Punjab",
-        "geocodelvl": "NA",
-        "flno": "",
-        "lg": ""
-      },
-      "ntr": "Office / Sale Office"
-    },
-    "tradeNam": "RELIANCE INDUSTRIES LIMITED",
-    "sts": "Active",
-    "ctjCd": "ZD1403",
-    "ctj": "RANGE-III",
-    "einvoiceStatus": "Yes"
-  },
-  {
     "stjCd": "AP055",
     "dty": "Regular",
     "lgnm": "RELIANCE INDUSTRIES LIMITED",
@@ -16667,6 +15707,966 @@
     "ctjCd": "US0101",
     "tradeNam": "M/S RELIANCE INDUSTRIES  LTD",
     "ctj": "NONGTHYMAI RANGE",
+    "einvoiceStatus": "Yes"
+  },
+  {
+    "stjCd": "PB151",
+    "stj": "Mohali - Ward No.3",
+    "dty": "Regular",
+    "lgnm": "RELIANCE INDUSTRIES LIMITED",
+    "adadr": [
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Hoshiarpur",
+          "st": "Hoshiarpur",
+          "bno": "V.P.O. Chohal",
+          "dst": "Hoshiarpur",
+          "lt": "",
+          "locality": "",
+          "pncd": "146024",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": ""
+        },
+        "ntr": "Office / Sale Office"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "The Mall",
+          "st": "Surya Tower",
+          "bno": "3rd Floor",
+          "dst": "Ludhiana",
+          "lt": "",
+          "locality": "",
+          "pncd": "141001",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": ""
+        },
+        "ntr": "Office / Sale Office"
+      },
+      {
+        "addr": {
+          "bnm": "Reliance Industries Limited",
+          "loc": "Chohal",
+          "st": "Thapar Colony",
+          "bno": "Township Area",
+          "dst": "Hoshiarpur",
+          "lt": "",
+          "locality": "",
+          "pncd": "146024",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "NA",
+          "flno": "Hoshiarpur Manufacturing Div",
+          "lg": ""
+        },
+        "ntr": "Others"
+      },
+      {
+        "addr": {
+          "bnm": "Reliance Industries Limited",
+          "loc": "Chohal",
+          "st": "Near Thapar Colony",
+          "bno": "40 Acre Land,Plantation Area",
+          "dst": "Hoshiarpur",
+          "lt": "",
+          "locality": "",
+          "pncd": "146024",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "NA",
+          "flno": "Hoshiarpur Manufacturing Div.",
+          "lg": ""
+        },
+        "ntr": "Others"
+      },
+      {
+        "addr": {
+          "bnm": "Reliance Industries Limited",
+          "loc": "V PO Nasrala",
+          "st": "Jalandhar Road",
+          "bno": "RIL",
+          "dst": "Hoshiarpur",
+          "lt": "",
+          "locality": "",
+          "pncd": "146022",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": ""
+        },
+        "ntr": "Warehouse / Depot, Office / Sale Office, Export"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Near Patran Teshil- Sunam PO- Khetla",
+          "st": "Village  Khetla",
+          "bno": "Reliance Industries Ltd Survey No  140",
+          "dst": "Sangrur",
+          "lt": "",
+          "locality": "",
+          "pncd": "148035",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": ""
+        },
+        "ntr": "Warehouse / Depot, Office / Sale Office"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Near Cargo Terminal,  Amritsar",
+          "st": "S.G.R.D.J. International Airport",
+          "bno": "Reliance Industries Limited,Aviation Fuelling Station",
+          "dst": "Amritsar",
+          "lt": "",
+          "locality": "",
+          "pncd": "143101",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": ""
+        },
+        "ntr": "Warehouse / Depot, Office / Sale Office"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Phoose mandi, Mansa road, Bhatinda",
+          "st": "C/O HPCL Bhatinda, IRD",
+          "bno": "Reliance industries limited",
+          "dst": "Bathinda",
+          "lt": "",
+          "locality": "",
+          "pncd": "151001",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": ""
+        },
+        "ntr": "Warehouse / Depot, Office / Sale Office"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Jind Road, Sangrur",
+          "st": "C/o Indian Oil Corporation Ltd.  M.D",
+          "bno": "Reliance Industries Ltd.",
+          "dst": "Sangrur",
+          "lt": "",
+          "locality": "",
+          "pncd": "148001",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": ""
+        },
+        "ntr": "Office / Sale Office, Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "NEAR PHOOS MANDI",
+          "loc": "BHATINDA",
+          "st": "JASSI CHOWK.MANSA ROAD",
+          "bno": "RELIANCE INDUSTRIES LIMITED, C/O BPCL BHATINDA",
+          "dst": "Bathinda",
+          "lt": "74.89",
+          "locality": "",
+          "pncd": "151001",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": "30.17"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "Opposite India Oil Petrol Pump",
+          "loc": "Village, Kohara",
+          "st": "NH-95, Chandigarh Road",
+          "bno": "Reliance Industries Limited",
+          "dst": "Ludhiana",
+          "lt": "76.00",
+          "locality": "",
+          "pncd": "141112",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "NA",
+          "flno": "",
+          "lg": "30.89"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "RELIANCE INDUSTRIES LIMITED",
+          "loc": "Ludhiana",
+          "st": "-",
+          "bno": "-",
+          "dst": "Ludhiana",
+          "lt": "30.906883",
+          "locality": "",
+          "pncd": "141001",
+          "landMark": "Village Kadian",
+          "stcd": "Punjab",
+          "geocodelvl": "city",
+          "flno": "-",
+          "lg": "75.846685"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Ludhiana",
+          "st": "MALERKOTLA ROAD",
+          "bno": "RK COLD STORE AND WAREHOUSE",
+          "dst": "Ludhiana",
+          "lt": "30.821749",
+          "locality": "VILLAGE KAIND",
+          "pncd": "141116",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.845763"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Sahnewal",
+          "st": "KOHARA ROAD",
+          "bno": "SAMRA LOGISTICS,BLOCK- 1 ,SAMRA LOGISTICS PARK",
+          "dst": "Ludhiana",
+          "lt": "30.849608",
+          "locality": "SAHNEWAL",
+          "pncd": "141120",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "Building",
+          "flno": "",
+          "lg": "75.9819440000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Mohali",
+          "st": "Sector 66",
+          "bno": "A-901,Bestech Business Tower",
+          "dst": "SAS Nagar",
+          "lt": "30.8390185",
+          "locality": "",
+          "pncd": "160062",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "Neighbourhood",
+          "flno": "",
+          "lg": "75.8640655"
+        },
+        "ntr": "Office / Sale Office"
+      },
+      {
+        "addr": {
+          "bnm": "Godown No. 13 & 14",
+          "loc": "Ludhiana",
+          "st": "Malerkotla Road",
+          "bno": "Deepak Godowns",
+          "dst": "Ludhiana",
+          "lt": "30.8390185",
+          "locality": "Village- Kaind",
+          "pncd": "141116",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "Neighbourhood",
+          "flno": "",
+          "lg": "75.8640655"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Sahnewal",
+          "st": "-",
+          "bno": "C/O ADANI LOGISTICS SERVICES PRIVATE LIMITED",
+          "dst": "Ludhiana",
+          "lt": "30.837997",
+          "locality": "VILLAGE KANECH",
+          "pncd": "141120",
+          "landMark": "POL TERMINAL, NR RAILWAY CROSSING",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "RELIANCE INDUSTRIES LIMITED",
+          "lg": "75.9826650000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "District Fatehgarh Sahib",
+          "loc": "Mohali",
+          "st": "Mohali-Sirhind Road",
+          "bno": "Nr. Radha Swami Satsung Bhawan",
+          "dst": "SAS Nagar",
+          "lt": "30.694845",
+          "locality": "Village Khanpur Beer, Tehsil-Bassi pattana",
+          "pncd": "140307",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "Mrs. Kulvinder Kaur w/o Mr. Bhagwant Singh,",
+          "lg": "76.6636510000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Mohali",
+          "st": "-",
+          "bno": "KHASRA NO 7/2,9/1,11//21,22,23,7/1",
+          "dst": "SAS Nagar",
+          "lt": "30.694845",
+          "locality": "VILLAGE BADALI ALA SINGH, HB 222TEH DISTT FATEHGARH SAHIB",
+          "pncd": "140307",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.6636510000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "Near Chunni Kalan",
+          "loc": "Mohali",
+          "st": "Landran Fatehgard sahib road",
+          "bno": "-",
+          "dst": "SAS Nagar",
+          "lt": "30.694845",
+          "locality": "Teshil -Bassi Pathanan District Fatehgarh Sahib",
+          "pncd": "140307",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "Near Dolphin College Sceience SH-12A",
+          "lg": "76.6636510000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Mohali",
+          "st": "District Fatehgarh Sahib",
+          "bno": "Village-Sempla Teshil bassi Pathana",
+          "dst": "SAS Nagar",
+          "lt": "30.694845",
+          "locality": "",
+          "pncd": "140307",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.6636510000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Jalandhar",
+          "st": "Nakodar Road",
+          "bno": "Khasra No. 24/1, 2/2,9,10,11,12, 19/1, 20/1,25/5/2,6,15",
+          "dst": "Jalandhar",
+          "lt": "30.694845",
+          "locality": "Near Zoloto Company, Village Lohara",
+          "pncd": "144026",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.6636510000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Mohali",
+          "st": "Near Radha Swami Satsang Bhawan",
+          "bno": "Land Detail HB No. 63, Masteel No. 22, Kila Nos. 9/11,20",
+          "dst": "SAS Nagar",
+          "lt": "30.694845",
+          "locality": "Vill-Sarkapra, Tehsil Bassi Pathana, Distt Fatehgarh Sahib",
+          "pncd": "140307",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.6636510000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Abohar",
+          "st": "Abohar",
+          "bno": "New Grain Market, Near Vishal mega mart",
+          "dst": "Fazilka",
+          "lt": "30.060972",
+          "locality": "",
+          "pncd": "152116",
+          "landMark": "District-Fazika,Punjab152116",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "74.1894550000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Amritsar",
+          "st": "100 FT Road, East Mohal nagar.Opp-Jay Cee Motors",
+          "bno": "Third Floor, SLS Tower, 273-J",
+          "dst": "Amritsar",
+          "lt": "31.6378770000001",
+          "locality": "",
+          "pncd": "143001",
+          "landMark": "Amritsar-Punjab143001",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "74.8662420000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Barnala",
+          "st": "no.58 tehsil",
+          "bno": "Village Handiaya -B",
+          "dst": "Barnala",
+          "lt": "30.371432",
+          "locality": "",
+          "pncd": "148101",
+          "landMark": "barnala,Punjab148101",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.549541"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Batala",
+          "st": "Batala, Dist Gurdaspur",
+          "bno": "Ground Floor and First Floor,Shastri nagar",
+          "dst": "Gurdaspur",
+          "lt": "31.825165",
+          "locality": "",
+          "pncd": "143505",
+          "landMark": "Gurdaspur Punjab143505",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.188637"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Dasuya",
+          "st": "opp Bank of baroda, Dasuya",
+          "bno": "First Floor,near City Centre",
+          "dst": "Hoshiarpur",
+          "lt": "31.821421",
+          "locality": "",
+          "pncd": "144205",
+          "landMark": "Distt Hoshiarpur, Punjab144205",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.6261050000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Ferozepur",
+          "st": "Gali no-10,Opp bus stand Ferozepur canntt",
+          "bno": "First Floor,House-69",
+          "dst": "Ferozepur",
+          "lt": "30.9304740000001",
+          "locality": "",
+          "pncd": "152001",
+          "landMark": "ferozpur,Punjab152001",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "74.614403"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Gurdaspur",
+          "st": "Scheme 01 improvement Trust, Batala road",
+          "bno": "First floor and Second Floor, SCO NO-3,4,5",
+          "dst": "Gurdaspur",
+          "lt": "32.041617",
+          "locality": "",
+          "pncd": "143521",
+          "landMark": "Gurdaspur, Punjab143521",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.4025280000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Hoshiarpur",
+          "st": "Logowal Nagar",
+          "bno": "SCO 13-14, Improvement Trust Scheme no 11",
+          "dst": "Hoshiarpur",
+          "lt": "31.5280030000001",
+          "locality": "",
+          "pncd": "146001",
+          "landMark": "Hoshirpur,Punjab146001",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.923867"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Jalalabad",
+          "st": "Lawrance Road, tehsil Jalalabad",
+          "bno": "First Floor, Kartar Complex Above Punjab And Sind Bank",
+          "dst": "Fazilka",
+          "lt": "30.604183",
+          "locality": "",
+          "pncd": "152024",
+          "landMark": "Distt Fazilka,Punjab152024",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "74.2584150000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Kotkapura",
+          "st": "Tehsil kotakpura",
+          "bno": "Village kotakpura, hadbast no-129",
+          "dst": "Faridkot",
+          "lt": "30.583803",
+          "locality": "",
+          "pncd": "151204",
+          "landMark": "Distt faridkot, Punjab151204",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "74.8227150000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Mansa",
+          "st": "Hadbast no 76,Tehsil and Distt Mansa",
+          "bno": "Village Mansa Kalan",
+          "dst": "Mansa",
+          "lt": "29.935545",
+          "locality": "",
+          "pncd": "151505",
+          "landMark": "Mansa, Punjab151505",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.3686910000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Malaut",
+          "st": "GT road",
+          "bno": "First floor,Bansal Complex, near Convent School",
+          "dst": "Sri Muktsar Sahib",
+          "lt": "30.1879910000001",
+          "locality": "",
+          "pncd": "152107",
+          "landMark": "Malout, Punjab152107",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "74.498136"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Nangal",
+          "st": "207 Railway road Nangal, Tehsil Nangal",
+          "bno": "Lower Ground floor  First floor,Guru Kirpa Complex",
+          "dst": "Rupnagar",
+          "lt": "31.379731",
+          "locality": "",
+          "pncd": "140124",
+          "landMark": "Distt Rupnagar,Punjab140124",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.3880530000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Saloh",
+          "st": "Tehsil Nawasehar",
+          "bno": "Village Nawashehar, Hadbast 126",
+          "dst": "Shaheed Bhagat Singh Nagar",
+          "lt": "31.125326",
+          "locality": "",
+          "pncd": "144514",
+          "landMark": "Distt S.B.S Nagar, Punjab144514",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.1168870000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Pathankot",
+          "st": "Hadbast no-332, Thesil & Distt Pathankot",
+          "bno": "First and Secand Floor, Village Saili",
+          "dst": "Pathankot",
+          "lt": "32.2807480000001",
+          "locality": "",
+          "pncd": "145001",
+          "landMark": "Distt Pathankot,Punjab145001",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.6346490000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Rupnagar",
+          "st": "Village Rupnagar, Tehsil Rupnagar",
+          "bno": "SCO1,Shreeram Complex, Ground, First,Second Floor Comlete",
+          "dst": "Rupnagar",
+          "lt": "30.9563690000001",
+          "locality": "",
+          "pncd": "140001",
+          "landMark": "Dist-Ropar,Punjab140001",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.5612570000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Mohali",
+          "st": "SAS Nagar  Mohali",
+          "bno": "Plot No E-38 , Industrial Area, Phase-08",
+          "dst": "SAS Nagar",
+          "lt": "30.7299110000001",
+          "locality": "",
+          "pncd": "160055",
+          "landMark": "Mohali,Punjab160055",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.7078770000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Sangrur",
+          "st": "Railway Station Road , near LIC Office, Sangrur Teh",
+          "bno": "First  Second Floor,Railway Station Road , near LIC Office",
+          "dst": "Sangrur",
+          "lt": "30.245532",
+          "locality": "",
+          "pncd": "148001",
+          "landMark": "Distt Sangrur,Punjab-148001",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.8442130000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Samana",
+          "st": "Tehsil Samana",
+          "bno": "Village malkana, Hadbast no-84",
+          "dst": "Patiala",
+          "lt": "30.159368",
+          "locality": "",
+          "pncd": "147101",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.2357880000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Tarn Taran",
+          "st": "Opp Civil Hospital, Amritsar Road",
+          "bno": "First Floor and Second Floor,Above HDFC Bank",
+          "dst": "Tarn Taran",
+          "lt": "31.4521730000001",
+          "locality": "",
+          "pncd": "143401",
+          "landMark": "Tarn taran,Punjab143401",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "74.9295200000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Ludhiana",
+          "st": "Focal Point, Ludhiana",
+          "bno": "Plot No. D-34, Phase V",
+          "dst": "Ludhiana",
+          "lt": "30.8837960000001",
+          "locality": "",
+          "pncd": "141010",
+          "landMark": "Ludhiana, Punjab141010",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.9090180000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "Kca Arcade",
+          "loc": "Khanna",
+          "st": "Grand Trunk Road",
+          "bno": "First Floor, KCA Arcade",
+          "dst": "Ludhiana",
+          "lt": "30.6992910000001",
+          "locality": "Billanwali Chhapary",
+          "pncd": "141401",
+          "landMark": "Hotel Thousand Spices",
+          "stcd": "Punjab",
+          "geocodelvl": "Building",
+          "flno": "",
+          "lg": "76.2327520000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Chaheru",
+          "st": "behind HP Petrol Pump, Near Olymipic school",
+          "bno": "Khasra No 1588, 1587, 1599, 1596, Hadvast 83",
+          "dst": "Kapurthala",
+          "lt": "31.251829",
+          "locality": "",
+          "pncd": "144411",
+          "landMark": "Tehsil Phagwara, Kapurthala 144411",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.7020580000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Moga",
+          "st": "bypass",
+          "bno": "Kotkapura",
+          "dst": "Moga",
+          "lt": "30.77777",
+          "locality": "",
+          "pncd": "142001",
+          "landMark": "Moga-142001",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "75.1624790000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Bhawanigarh",
+          "st": "Nabha road Bhawanigarh",
+          "bno": "Sachdeva Ice Cream Plant, vill. Alloarkh",
+          "dst": "Sangrur",
+          "lt": "30.2654170000001",
+          "locality": "",
+          "pncd": "148026",
+          "landMark": "District Sangrur. Punjab-148026",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.0350950000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Bathinda",
+          "st": "Bathinda Harbast No 70, Bathinda Barnala Road NH 64",
+          "bno": "Khasra No. 2150/3 2-18, 2151/2  4-3 Kh",
+          "dst": "Bathinda",
+          "lt": "30.157424",
+          "locality": "",
+          "pncd": "151001",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "74.9741020000001"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Ludhiana",
+          "st": "Sat Pal Mittal Road",
+          "bno": "Flamez Mall, Gurdev Nagar",
+          "dst": "Ludhiana",
+          "lt": "30.894114",
+          "locality": "",
+          "pncd": "141001",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "Neighbourhood",
+          "flno": "",
+          "lg": "75.823707"
+        },
+        "ntr": "Warehouse / Depot"
+      },
+      {
+        "addr": {
+          "bnm": "",
+          "loc": "Patiala",
+          "st": "Patiala-Rajpura Highway",
+          "bno": "Reliance Mart Sheikupura, Opposite Police Commando Complex",
+          "dst": "Patiala",
+          "lt": "30.333265",
+          "locality": "",
+          "pncd": "147002",
+          "landMark": "",
+          "stcd": "Punjab",
+          "geocodelvl": "pincode",
+          "flno": "",
+          "lg": "76.4396540000001"
+        },
+        "ntr": "Warehouse / Depot"
+      }
+    ],
+    "cxdt": "",
+    "gstin": "03AAACR5055K2ZG",
+    "nba": [
+      "Office / Sale Office",
+      "Others",
+      "Warehouse / Depot",
+      "Export"
+    ],
+    "lstupdt": "07/12/2023",
+    "ctb": "Public Limited Company",
+    "rgdt": "01/07/2017",
+    "pradr": {
+      "addr": {
+        "bnm": "",
+        "loc": "Mohali",
+        "st": "Phase-VIII, Industrial Focal point",
+        "bno": "C-135",
+        "dst": "SAS Nagar",
+        "lt": "",
+        "locality": "",
+        "pncd": "160071",
+        "landMark": "",
+        "stcd": "Punjab",
+        "geocodelvl": "NA",
+        "flno": "",
+        "lg": ""
+      },
+      "ntr": "Office / Sale Office"
+    },
+    "sts": "Active",
+    "ctjCd": "ZD1403",
+    "tradeNam": "RELIANCE INDUSTRIES LIMITED",
+    "ctj": "RANGE-III",
     "einvoiceStatus": "Yes"
   },
   {
