@@ -9,28 +9,21 @@ output = io.BytesIO()
 
 # Use the BytesIO object as the filehandle.
 writer = pd.ExcelWriter(output, engine='xlsxwriter')
+# Create a bold format
+bold_format = writer.book.add_format({'bold': True})
 
-
-
-
-
-
-
+#Mongo DB cridentials
 mongo_uri = "mongodb+srv://umair:umairmongo@cluster0.pgkqn44.mongodb.net/?retryWrites=true&w=majority"
-
 database_name = "GST_Check"
 collection_name = "GST"
 
+#Establishing mongo connection
 client = MongoClient(mongo_uri)
 database = client[database_name]
 collection_GST = database[collection_name]
 
-# MongoDB connection details
-# mongo_uri = "mongodb+srv://umair:umairmongo@cluster0.pgkqn44.mongodb.net/?retryWrites=true&w=majority"
-# database_name = "PEP"
-# collection_name = "rajya_sabha"
 
-
+#Website title
 st.title("GST Explorer")
 
 # Get user input for first and last name
@@ -67,16 +60,12 @@ if st.button("Search"):
             
             #defining worksheet for text entry in excel file
             worksheet = writer.sheets['Sheet1']
+            # Create a bold format
+
             worksheet.write(0, 0, "Search results based on PAN: "+ str(PAN_input))
             
             # Displaying results data frame on front end
             st.table(pan_to_gst_df)
-
-            
-            
-            
-
-            
             
             gst_not_in_DB=[]
             for top in PAN_results:
@@ -112,8 +101,30 @@ if st.button("Search"):
                     returns=[]
                     for document in result:
                         returns=document["returns"]
-                        
-                        
+                        name=document["lgnm"]
+                        address=document["adr"]
+                        reg_date=document["rgdt"]
+                        nba=document["nba"]
+                        hsn=document["hsn"]
+                    
+                    worksheet.write(r, 0, "Business name: ")
+                    worksheet.write(r, 1, str(name))
+                    r=r+1
+                    worksheet.write(r, 0, "Business address: ")
+                    worksheet.write(r, 1, str(address))
+                    r=r+1
+                    worksheet.write(r, 0, "Registration Date: ")
+                    worksheet.write(r, 1, str(reg_date))
+                    r=r+1
+                    worksheet.write(r, 0, "NBA: ")
+                    worksheet.write(r, 1, str(nba))
+                    r=r+1
+                    
+                    worksheet.write(r, 0, "HSN: ")
+                    worksheet.write(r, 1, str(hsn))
+                    r=r+1
+                    
+                       
                     # Create a dictionary to store records based on rtntype
                     rtntype_data = {}
                     for record in returns:
@@ -138,7 +149,9 @@ if st.button("Search"):
                         
                         
                         #Adding the columns to the excel sheet
+                        r=r+1
                         worksheet.write(r, 0, "Table: "+ str(rtntype))
+                        worksheet.write(r, 1,str(rtntype), bold_format )
                         r=r+1
                         selected_columns.to_excel(writer,sheet_name='Sheet1', startrow=r, index=False )
                         r=r+len(selected_columns)+1
@@ -147,8 +160,7 @@ if st.button("Search"):
                         
                 else:
                     st.warning("The GST is not active")
-                    r=r+1
-                    worksheet.write(r, 0, "The GST is not active")
+                    worksheet.write(r, 0, "The GST is not active", bold_format)
                     r=r+2
            
             writer.close()
