@@ -2,11 +2,20 @@ import streamlit as st
 from pymongo import MongoClient
 from data_extraction import *
 import pandas as pd
-import re
+#import re
+import io
+
+output = io.BytesIO()
+
+# Use the BytesIO object as the filehandle.
+writer = pd.ExcelWriter(output, engine='xlsxwriter')
 
 
-# Assuming you have a MongoDB client connected to your database
-#client = pymongo.MongoClient("mongodb://localhost:27017/")
+
+
+
+
+
 mongo_uri = "mongodb+srv://umair:umairmongo@cluster0.pgkqn44.mongodb.net/?retryWrites=true&w=majority"
 
 database_name = "GST_Check"
@@ -31,13 +40,44 @@ if st.button("Search"):
     if PAN_input :
         st.write(f"Searching for GSTs with PAN: {PAN_input}")
         
-        PAN_results = process_master_india(PAN_input)
+        PAN_results = razor_pay(PAN_input)
         
         if PAN_results:
+            print(PAN_input)
+            f_name=str(PAN_input)+".xlsx"
+            print(f_name)
+            r=2
+            #writer.write(str(PAN_input), startrow=r )
             st.write(f"Total number of registered GSTs: {len(PAN_results)}")
             #For top 5 results
             #top_5=PAN_results[:5]
-            st.table(PAN_results)
+            
+            
+            #converting the json response to data frae for making csv file
+            pan_to_gst_df = pd.DataFrame(PAN_results)
+            #print(pan_to_gst_df)
+
+            
+            # Changing the column names for CSV file
+            pan_to_gst_df.columns=["GST", 'Status', "State"]
+            #Writing the Data frame of search results in the excel sheet
+            pan_to_gst_df.to_excel(writer,sheet_name='Sheet1', startrow=r, index=False )
+            
+            r=r+len(pan_to_gst_df)+1 #updating the row column pointer based on the results length
+            
+            #defining worksheet for text entry in excel file
+            worksheet = writer.sheets['Sheet1']
+            worksheet.write(0, 0, "Search results based on PAN: "+ str(PAN_input))
+            
+            # Displaying results data frame on front end
+            st.table(pan_to_gst_df)
+
+            
+            
+            
+
+            
+            
             gst_not_in_DB=[]
             for top in PAN_results:
                 record_exist = search_record_exist(top["gstin"],collection_GST)
@@ -50,14 +90,19 @@ if st.button("Search"):
                     
                     
             for gst in gst_not_in_DB:
-                status=get_status(gst,PAN_results )
+                
+                status=get_status(gst,PAN_results)
+                
                 if status == 'Active' :
                     jamku_extract(gst,collection_GST)
                     print(f"{gst} added in the DB")
             #if st.button("Get Filing details of each GST"):
             for top in PAN_results:
                 st.subheader(f"Filing Details for {top['gstin']}")
-                if top["sts"] == "Active" :
+                r=r+1
+                worksheet.write(r, 0, "Filing details of GST: "+ str(top['gstin']))
+                r=r+2
+                if top["auth_status"] == "Active" :
                     print("Generating table")
                     # Fetch documents where GSTIN is "1234"
                     query = {"gstin": top["gstin"]}
@@ -90,11 +135,32 @@ if st.button("Search"):
                         selected_columns = df[['fy', 'taxp','dof','check']]  # List of column names
                         selected_columns.columns = ['Financial Year', 'Tax Period','Date of Filing', 'Check']
                         print(selected_columns)
+                        
+                        
+                        #Adding the columns to the excel sheet
+                        worksheet.write(r, 0, "Table: "+ str(rtntype))
+                        r=r+1
+                        selected_columns.to_excel(writer,sheet_name='Sheet1', startrow=r, index=False )
+                        r=r+len(selected_columns)+1
+                        
                         st.table(selected_columns)
                         
                 else:
-                    st.warning("The GST is not active")        
-                            
+                    st.warning("The GST is not active")
+                    r=r+1
+                    worksheet.write(r, 0, "The GST is not active")
+                    r=r+2
+           
+            writer.close()
+            xlsx_data2 = output.getvalue()
+            print("printing the file name again")
+            print(f_name)          
+            st.download_button(
+                label="Download Excel workbook",
+                data=xlsx_data2,
+                file_name=f_name,
+                mime="application/vnd.ms-excel"
+            )                        
         else:
             st.warning("No matching records found.")
     else:

@@ -232,7 +232,36 @@ def jamku_extract(GST, collection_GST):
     
     
 
+def razor_pay(PAN):
+    url = "https://razorpay.com/api/gstin/pan/"+str(PAN)
+    headers = {
+    'authority': 'razorpay.com',
+    'accept': 'application/json, text/plain, */*',
+    'accept-language': 'en-GB,en;q=0.9,ur-IN;q=0.8,ur;q=0.7,en-US;q=0.6',
+    'cache-control': 'no-cache',
+    'cookie': 'ab_user_id=ab8505ef-cfbf-4253-9138-e52e0837c7e9; additional-cache-params={"isMobile":false,"isSafari":false,"countryCode":"IN","isTransparentVideoNotSupported":false,"isBot":false,"host":"razorpay.com","previewAsset":""}; visit_time_stamp=1702906207694; firstAttribUtm={"source":"google","medium":"organic"}; lastAttribUtm={"utm_source":"google","utm_medium":"organic"}; clientId=511f8916-ce7e-4647-ac9a-94c8a9a991c7; utm_params_analytics={%22utm_campaign%22:%22%22%2C%22utm_content%22:%22%22%2C%22utm_keyword%22:%22%22%2C%22utm_medium%22:%22%22%2C%22utm_source%22:%22%22}; sessionId=1702906208042; isLandingPageUser=true; commonSessionId=cda1a999-8560-4fbd-98f9-21aff078a72c; campaignStartTime=Mon%2C%2018%20Dec%202023%2013%3A30%3A23%20GMT; rzp_utm={"attributions":[{"utm_source":"google","utm_campaign":null,"utm_medium":"organic","utm_term":null,"utm_content":null,"utm_adgroup":null,"timestamp":null},{"utm_source":"google","utm_campaign":null,"utm_medium":"organic","utm_term":null,"utm_content":null,"utm_adgroup":null,"timestamp":null}],"website":"razorpay.com/gst-number-search/pan/aawcs9053q","first_page":"razorpay.com/gst-number-search/pan/","final_page":"razorpay.com/gst-number-search/pan/","new_user":false,"fc_source":"google","lc_source":"google"}; lastActivityTimeStamp=1702906261836',
+    'pragma': 'no-cache',
+    'referer': 'https://razorpay.com/gst-number-search/pan/AAWCS9053Q',
+    'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-origin',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
 
+    response = requests.request("GET", url, headers=headers)
+    razor_data=response.text
+    print(f"Established connection  to the razor pay website for the PAN:{PAN}")
+    
+    json_obj = json.loads(razor_data)["items"]
+    
+    keys_to_keep = ["gstin","auth_status","state"]
+    
+    records_data_filtered_razor = [{key: element.get(key) for key in keys_to_keep} for element in json_obj]
+    
+    return records_data_filtered_razor
 
 def process_master_india(PAN):
     # Example JSON data (dictionary)
@@ -298,8 +327,13 @@ def master_india_extract(PAN):
 def get_status(gst_value, gst_data):
     for record in gst_data:
         if record['gstin'] == gst_value:
-            return record['sts']
+            return record['auth_status']
     return 'GST not found'
 
+
+
+def convert_to_excel(df):
+    
+    return
 
 
